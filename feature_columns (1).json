@@ -1,0 +1,19 @@
+[
+  "Age",
+  "BusinessTravel",
+  "Department",
+  "DistanceFromHome",
+  "Education",
+  "EducationField",
+  "Gender",
+  "JobRole",
+  "MaritalStatus",
+  "MonthlyIncome",
+  "NumCompaniesWorked",
+  "OverTime",
+  "TotalWorkingYears",
+  "TrainingTimesLastYear",
+  "YearsAtCompany",
+  "YearsSinceLastPromotion",
+  "YearsWithCurrManager"
+]
